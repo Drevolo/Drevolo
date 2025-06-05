@@ -8,8 +8,14 @@
 
 ## Tecnologias e Linguagens: 👨🏽‍💻
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-
+<img
+    allign="left"
+    alt="Python"
+    title="Python"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/> <br>
 ## Quem sou? ❓
 
 Meu nome é Gabriel Barros Miranda, tenho 18 anos e estou cursando Engenharia de Software na Universidade Evangélica de Ceres. Atualmente, estudo e faço projetos como automações em Python, mas tenho conhecimento em HTML, CSS e C#.
