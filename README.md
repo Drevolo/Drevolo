@@ -6,7 +6,7 @@
 
 ![Status do GitHub do Gabriel](https://github-readme-stats.vercel.app/api?username=Drevolo&show_icons=true&theme=merko)
 
-## Tecnologias que uso no meu dia a dia: 👨🏽‍💻
+## Tecnologias e Linguagens: 👨🏽‍💻
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 
