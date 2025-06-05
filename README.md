@@ -4,5 +4,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielbarros.0_0?igsh=MW0wdGFuYjRzcTc3dA==)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((https://www.linkedin.com/in/gabriel-barros-miranda-008119352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
-![Status do GitHub do Gabriel](https://github-readme-stats.vercel.app/api?username=Drevolo&show_icons=true&theme=dracula)
+![Status do GitHub do Gabriel](https://github-readme-stats.vercel.app/api?username=Drevolo&show_icons=true&theme=merko)
 
